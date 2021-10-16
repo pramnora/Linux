@@ -19,9 +19,45 @@ List directory folders and files...
 
 >>ls
 
+List directory folders and files...(long format)...   
+
+>>ls -l  
+
+List directory folders and files...(long format/all)...   
+
+>>ls -la    
+
+Change directory...  
+
+>>cd dirName  
+
+Go back up a directory...  
+
+>>cd ..  
+
+Return to home directory...  
+
+>> cd  
+
+>> cd ~  
+
+Go to root directory...  
+
+>> cd /  
+
+
+ 
+
+
+
+
+
+
+
+
 ## Links...  
 
 ### Cloud computing/servers  
 
-https://www.linode.com  
-https://www.digitalocean.com  
+- https://www.linode.com  
+- https://www.digitalocean.com  
