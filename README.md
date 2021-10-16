@@ -59,9 +59,25 @@ Edit file...
 
 >> nano fileName   
 
+Exit nano text editor...  
+
+>> [CTRL]+[X]; then, [Y]; then, [ENTER]  
+
+List a file contents(without opening it/or, running it)...   
+
+>> cat fileName  
+
 Add -(optional)- filename extension...   
 
 >> nano fileName.txt  
+
+Rename file...  
+
+>> mv fileName fileName.txt  
+
+Copy file...  
+
+>> cp fileName fileName2  
 
 Show file type(shows if folder/or, file)...      
 
