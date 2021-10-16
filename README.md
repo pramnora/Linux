@@ -45,6 +45,39 @@ Go to root directory...
 
 >> cd /  
 
+See what accounts have a home directory...  
+
+>> cd /home  
+>> ls  
+
+Show who is currently logged on...  
+
+>> who    
+
+Show who is the current user...  
+
+>> who am i  
+
+Clear the screen...  
+
+>> Clear  
+
+Show the current date...  
+
+>> cal  
+
+Show the current calendar...(same day events/or, births)...  
+
+>> calendar  
+
+Show both the time/date...  
+
+>> date  
+
+
+
+
+
 
  
 
