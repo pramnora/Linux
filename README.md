@@ -55,6 +55,14 @@ Remove file...
 
 >> rm fileName  
 
+Remove multiple files...  
+
+>> rm fileName1 fileName2  
+
+Remove all files(having nil extension)...    
+
+>> rm *  
+
 Edit file...    
 
 >> nano fileName   
