@@ -27,6 +27,18 @@ List directory folders and files...(long format/all)...
 
 >>ls -la    
 
+List folders and files inside of a different named folder...    
+
+>>ls test/  
+
+Make directory folder...  
+
+>> mkdir dirName  
+
+Remove directory folder...  
+
+>> rmdir dirName  
+
 Change directory...  
 
 >>cd dirName  
@@ -35,7 +47,27 @@ Go back up a directory...
 
 >>cd ..  
 
-Return to home directory...  
+Make file...  
+
+>> touch fileName  
+
+Remove file...  
+
+>> rm fileName  
+
+Edit file...    
+
+>> nano fileName   
+
+Add -(optional)- filename extension...   
+
+>> nano fileName.txt  
+
+Show file type(shows if folder/or, file)...      
+
+>> file fileName  
+
+Return to home directory...   
 
 >> cd  
 
