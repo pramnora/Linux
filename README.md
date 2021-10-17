@@ -21,6 +21,16 @@ Show command list history...
 
 >> history  
 
+### Create an alias/and, then, use it...  
+
+>> cls=clear      
+>> $cls  
+
+NOTES:   
+1. No spaces/'cls = clear', would NOT work!   
+2. The alias only works temporarily for the length of that particular session   
+(if you wish the alias to last longer...; then, put a script inside of the 'bin' section)  
+
 ### Dir commands...
 
 Show what is the current folder directory...  
