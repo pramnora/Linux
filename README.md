@@ -5,9 +5,9 @@ Linux
 
 I recall using Linux in the following flavours...  
 
-1. Linux Ubuntu 18.xx LTS on Windows 7/dual boot operating system  
-2. Raspbian Linux on the Raspberry Pi SBC/Small Board Computer   
-3. Linux Ubuntu 20.04 LTS on cloud servers: Linode/Digital Ocean  (Windows 10 Pro/2021)  
+1. Windows 7/dual boot operating system - Linux Ubuntu 18.xx LTS     
+2. Raspbian Linux on the Raspberry Pi SBC/Small Board Computer     
+3. Windows 10 Pro/2021 - Linux Ubuntu 20.04 LTS on cloud servers: Linode/Digital Ocean    
 
 ## Linux terminal commands...  
 
