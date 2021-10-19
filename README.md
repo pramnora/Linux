@@ -133,6 +133,14 @@ Exit nano text editor...
 
 >> [CTRL]+[X]; then, [Y]; then, [ENTER]  
 
+### Search: Grep...  
+
+>> grep world hw01.txt  
+>> world  
+
+>> grep 'WORLD\|world' hw01.txt   
+>> world  
+
 ### User accounts...   
 
 See what accounts have a home directory...  
