@@ -31,6 +31,29 @@ NOTES:
 2. The alias only works temporarily for the length of that particular session   
 (if you wish the alias to last longer...; then, put a script inside of the 'bin' section)  
 
+### Variable declaration...  
+
+>> x=1                 (no spaces)      
+>> echo x  
+>> x  
+>> echo $x  
+>> 1  
+
+>> y=2   
+>> echo $y  
+>> 2  
+>> bash      (opens a new bash shell)  
+>> y=35  
+>> echo $y    
+>> 35  
+>> exit      (exits the new bash shell)    
+>> echo $y    
+>> 2  
+>> unset y   (wipe variable value)  
+>> echo $y  
+>> (nil output)  
+
+
 ### SYSTEM printout...
 
 Show variables in general...  
