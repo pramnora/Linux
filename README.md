@@ -7,7 +7,8 @@ I recall using Linux in the following flavours...
 
 1. Windows 7/dual boot operating system - Linux Ubuntu 18.xx LTS     
 2. Raspbian Linux on the Raspberry Pi SBC/Small Board Computer     
-3. Windows 10 Pro/2021 - Linux Ubuntu 20.04 LTS on cloud servers: Linode/Digital Ocean    
+3. Windows 10 Pro/09-2021 - SSH into Linux Ubuntu 20.04 LTS on cloud servers: Linode/Digital Ocean   
+4. Windows 10 Pro/10-2021 - dual boot OS - Linux Ubuntu 20.04 LTS 
 
 ## Linux terminal commands...  
 
