@@ -27,11 +27,27 @@ Inquire what a commands is all about...
 >> what is echo  
 >> echo (1) - display a line of text  
 
-### How to pipe commands into another file...
+Using help...in the form of man pages...
+
+>> man echo
+
+...format: man command.
+
+### How to pipe directory contents into another file...
 
 >> ls -al /home > listUsers  
 
 ...list the home directory users/and, send the output into a new file call listUsers.   
+
+### Write data to a file directly from the CLI...(and, without needing to use any editor)    
+
+>> echo -e "Hello, \nworld!" > text1  
+>> cat text1  
+>> Hello,  
+>> world!  
+
+...the '-e' flag enables interpretation of backslash characters (by default turned off: -E);    
+and, also, sends the output into a file called: text1.  
 
 ### Create an alias/and, then, use it...  
 
