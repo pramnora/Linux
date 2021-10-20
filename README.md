@@ -22,6 +22,17 @@ Show command list history...
 
 >> history  
 
+Inquire what a commands is all about...  
+
+>> what is echo  
+>> echo (1) - display a line of text  
+
+### How to pipe commands into another file...
+
+>> ls -al /home > listUsers  
+
+...list the home directory users/and, send the output into a new file call listUsers.   
+
 ### Create an alias/and, then, use it...  
 
 >> cls=clear      
