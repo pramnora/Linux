@@ -259,3 +259,8 @@ Show both the time/date...
 
 - https://www.linode.com  
 - https://www.digitalocean.com  
+
+### YouTube videos  
+
+Beginner's Guide to the Bash Terminal  - (Channel: Joe Collins)  
+- https://www.youtube.com/watch?v=oxuRxtrO2Ag  
