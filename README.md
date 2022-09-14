@@ -265,5 +265,13 @@ Show both the time/date...
 Beginner's Guide to the Bash Terminal  - (Channel: Joe Collins)  
 - https://www.youtube.com/watch?v=oxuRxtrO2Ag  
 
-Linux Terminal Basics 1 | Working with Text - (Chanel: Joe Collins)  
+Linux Terminal Basics 1 | Working with Text - (Channel: Joe Collins)  
 - https://www.youtube.com/watch?v=QlWKQAh7MKc  
+
+Linux Terminal Basics 2 | Working with Text - (Channel: Joe Collins)  
+- https://www.youtube.com/watch?v=nR6AOqk1YnQ  
+
+How to write a bash script - (Channel: OMGenomics)    
+- https://www.youtube.com/watch?v=F-gskSl4pwQ  
+
+
