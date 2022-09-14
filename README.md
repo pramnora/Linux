@@ -264,3 +264,6 @@ Show both the time/date...
 
 Beginner's Guide to the Bash Terminal  - (Channel: Joe Collins)  
 - https://www.youtube.com/watch?v=oxuRxtrO2Ag  
+
+Linux Terminal Basics 1 | Working with Text - (Chanel: Joe Collins)  
+- https://www.youtube.com/watch?v=QlWKQAh7MKc  
