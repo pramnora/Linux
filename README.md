@@ -1,7 +1,7 @@
 # Linux  
 Linux  
 
-Document last modified: *Sun 18 Sep 2022 03:06 AM GMT*   
+Document last modified: *Sat 19th Aug 2023 09:33 AM GMT*   
 
 ## My own Linux history(choronological order)...  
 
