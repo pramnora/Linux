@@ -12,8 +12,9 @@ I recall using Linux in the following flavours...
 3. Windows 10 Pro/09-2021 - SSH into Linux Ubuntu 20.04 LTS on cloud servers: Linode/Digital Ocean   
 4. Windows 10 Pro/10-2021 - dual boot OS - Linux Ubuntu 20.04 LTS 
 5. Window WSL/Windows Sub-system for Linux
-6. Linode Linux 22.04 LTS
-
+6. Linode Linux 22.04 LTS  
+7. Linux Mint 21.2 LTS (08/23)  
+  
 ## Linux terminal commands...  
 
 ### General commands...  
