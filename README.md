@@ -279,6 +279,12 @@ Linux Terminal Basics 2 | Working with Text - (Channel: Joe Collins)
 How to write a bash script - (Channel: OMGenomics)    
 - https://www.youtube.com/watch?v=F-gskSl4pwQ
 
+## Linux servers online/use inside of your browser
+
+- https://www.terminaltemple.com/  
+- https://onecompiler.com/bash/43n5km2dv  
+-   
+
 Bash Scripting Tutorial for Beginners - (Channel: freeCodeCamp.org)  
 - https://www.youtube.com/watch?v=tK9Oc6AEnR4  
 
