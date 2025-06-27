@@ -262,8 +262,15 @@ Show both the time/date...
 
 ## Linux tutorials  
 
-- https://linuxhandbook.com/  
-
+- https://linuxhandbook.com/
+- https://linuxhandbook.com/linux-terminal-intro/  
+- https://linuxhandbook.com/shell-introduction/
+- https://linuxhandbook.com/linux-case-sensitivity/
+- https://linuxhandbook.com/root-user-concept/  
+- https://linuxhandbook.com/understand-man-pages/  
+- https://linuxhandbook.com/common-commands/  
+- https://linuxhandbook.com/bash-shell-navigation/    
+  
 ### Cloud computing/servers  
 
 - https://www.linode.com  
