@@ -269,7 +269,8 @@ Show both the time/date...
 - https://linuxhandbook.com/root-user-concept/  
 - https://linuxhandbook.com/understand-man-pages/  
 - https://linuxhandbook.com/common-commands/  
-- https://linuxhandbook.com/bash-shell-navigation/    
+- https://linuxhandbook.com/bash-shell-navigation/      
+- https://linuxhandbook.com/seq-command/  
   
 ### Cloud computing/servers  
 
