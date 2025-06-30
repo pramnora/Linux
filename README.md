@@ -291,6 +291,8 @@ Linux Terminal Basics 2 | Working with Text - (Channel: Joe Collins)
 How to write a bash script - (Channel: OMGenomics)    
 - https://www.youtube.com/watch?v=F-gskSl4pwQ
 
+### Linux Software
+
 Top 10 INSANE Linux Apps You SHOULD BE USING in 2025! (#4 Blew My Mind) - (Channel: Linux Tex)  
 - https://www.youtube.com/watch?v=RTwOvogeEVs  
   
