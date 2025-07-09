@@ -16,6 +16,7 @@ touch file{5..9}.txt
 
 # list files
 
+echo "File listing..."
 ls 
 
 # ---------------
@@ -36,4 +37,5 @@ rm file{5..9}.txt
 
 # list files
 
+echo "File listing..."
 ls
