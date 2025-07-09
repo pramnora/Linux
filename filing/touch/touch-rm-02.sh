@@ -1,14 +1,16 @@
 # Create multiple files...
 
-touch file{1..9}.txt
+touch testfile{1..9}.txt
 
 # list files...
 
 ls
 
 # Remove all files...
+# beginning with the prefix name: testfile
+# and, ending with file name extension: .txt
 
-rm *
+rm testfile*.txt
 
 # list files...
 
