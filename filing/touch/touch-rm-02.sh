@@ -7,7 +7,7 @@ touch testfile{1..9}.txt
 ls
 
 # Remove all files...
-# beginning with the prefix name: testfile
+# beginning with the prefix name: testfile;
 # and, ending with file name extension: .txt
 
 rm testfile*.txt
