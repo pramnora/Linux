@@ -246,7 +246,7 @@ Show both the time/date...
 
 
 
-### Install TMux  
+### TMux/Terminal Multi-plexer  
 
 Tmux, is a terminal multi-plexer that gives you...    
 - a separate window to work with (which you can both detach from/attach to, again)  
