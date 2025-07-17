@@ -272,7 +272,20 @@ Tmux, is a terminal multi-plexer that gives you...
 ...to 'attach' to the current Tmux session:  
 > tmux attach  
 ...to start up a new Tmux session...  
-> tmux
+> tmux  
+
+...to list how many TMux sessions are currently open; and, therefore, still are running...    
+> tmux list-sessions  
+...kill a TMux session(-t n/here n is 0)...  
+> tmux kill-session -t 0  
+
+...manipulating window panes...  
+...split a window vertically: [CTRL]+[B], then, [SHIFT] + ["]  
+...split a window horizontally: [CTRL]+[B], then, [SHIFT] + [%]  
+...to move between different windows: [CTRL]+B, then, arrow keys: left/right/up/down   
+...to close any window pane: [CTRL]+[B], then, [X]...confirm y/n?  
+
+
 
 
  
