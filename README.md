@@ -250,10 +250,13 @@ Show both the time/date...
 
 Tmux, is a terminal multi-plexer that gives you...    
 - a separate window to work with (which you can both detach from/attach to, again)  
-- multiple panes to work with.   
+- multiple Terminal panes to work with.   
+- when you 'detach' from a TMux session it is still running inside of the background; therefore, is ready to 'attach' to, again.
 
-...to install TMux...  
-> sudo snap install tmux  
+...to install TMux...   
+> sudo apt install tmux  
+..or...  
+> sudo snap install tmux    
 ... to find out if TMux is already installed:  
 > which tmux  
 > /snap/bin/tmux  
@@ -262,11 +265,12 @@ Tmux, is a terminal multi-plexer that gives you...
 > /snap/bin/tmux  
 ...to install a new TMux session:  
 > tmux  
- ...to detach from the TMux session:   
+ ...to 'detach' from the current TMux session:   
 > [CTRL]+[B], then, [D]  
-...to attach to a Tmux session:  
+...to 'attach' to the current Tmux session:  
 > tmux attach  
-
+...to start up a new Tmux session...
+> tmux
 
 
  
