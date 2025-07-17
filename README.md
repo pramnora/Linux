@@ -376,6 +376,9 @@ How Does Linux Boot Process Work? - (Channel - ByteByteGo)
 I deleted my entire OS with 1 command - (Channel: NexxelSecurity)    
 - https://www.youtube.com/shorts/w64PTSLLfBk
 
+Boost your Linux productivity with TMux (Channel: Learn Linux TV)  
+- https://www.youtube.com/shorts/aahdlKVKu-Q  
+
 ### Linux Software
 
 Top 10 INSANE Linux Apps You SHOULD BE USING in 2025! (#4 Blew My Mind) - (Channel: Linux Tex)  
