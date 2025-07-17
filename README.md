@@ -39,8 +39,12 @@ and, a next Terminal application window could be surfing through a different dir
 
 Inside of the terminal window...  
 
-[SHIFT]+[N], Opens up a New Terminal window.    
-[SHIFT]+[T], Opens up a New Terminal window inside of a separate tab.    
+[SHIFT]+[N], Opens up a New Terminal window...inside of a new Window.     
+[SHIFT]+[T], Opens up a New Terminal window...inside of a separate tab.    
+[SHIFT]+[CTRL]+W, closes the tab.  
+[SHIFT]+[CTRL]+Q, closes the window.  
+
+-----
 
 ### Running 'hidden' terminal(s)
 
