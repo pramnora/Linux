@@ -112,11 +112,15 @@ Using help...in the form of man pages...
 
 ...format: man command.
 
+-----
+
 ### How to pipe directory contents into another file...
 
 >> ls -al /home > listUsers  
 
 ...list the home directory users/and, send the output into a new file call listUsers.   
+
+-----
 
 ### Write data to a file directly from the CLI...(and, without needing to use any editor)    
 
@@ -128,6 +132,8 @@ Using help...in the form of man pages...
 ...the '-e' flag enables interpretation of backslash characters (by default turned off: -E);    
 and, also, sends the output into a file called: text1.  
 
+-----
+
 ### Create an alias/and, then, use it...  
 
 >> cls=clear      
@@ -137,6 +143,8 @@ NOTES:
 1. No spaces/'cls = clear', would NOT work!   
 2. The alias only works temporarily for the length of that particular session   
 (if you wish the alias to last longer...; then, put a script inside of the 'bin' section)  
+
+-----
 
 ### Variable declaration...  
 
@@ -161,6 +169,8 @@ NOTES:
 >> (nil output)  
 
 
+-----
+
 ### SYSTEM printout...
 
 Show variables in general...  
@@ -168,6 +178,8 @@ Show variables in general...
 
 Show environment variables...  
 >> ENV  
+
+-----
 
 ### Dir commands...
 
@@ -217,6 +229,8 @@ Go to root directory...
 
 >> cd /  
 
+-----
+
 ### File commands...  
 
 Make file...  
@@ -251,6 +265,8 @@ Show file type(shows if folder/or, file)...
 
 >> file fileName  
 
+-----
+
 ### Editor commands...  
 
 #### Editor: Nano...
@@ -271,6 +287,8 @@ Exit nano text editor...
 
 >> [CTRL]+[X]; then, [Y]; then, [ENTER]  
 
+-----
+
 ### Search: Grep...  
 
 >> grep world hw01.txt  
@@ -278,6 +296,8 @@ Exit nano text editor...
 
 >> grep 'WORLD\|world' hw01.txt   
 >> world  
+
+-----
 
 ### User accounts...   
 
@@ -303,6 +323,8 @@ Switch user...
 >> su userName  
 
 
+-----
+
 
 ### DATE related commands...  
 
@@ -325,7 +347,7 @@ Show both the time/date...
 
 
 
-
+-----
 
 
 
