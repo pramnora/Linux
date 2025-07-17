@@ -48,7 +48,7 @@ Inside of the terminal window...
 
 ### Running 'hidden' terminal(s)
 
-### TMux/Terminal Multi-plexer (allows you to have multiple terminals either running inside of their own entirely separate window.../or, all running together inside of 'one' same window whilst using separate window panes)  
+### TMux/Terminal Multi-plexer (allows you to have multiple terminals either running inside of their own entirely separate window.../or, all running together inside of 'one' same window whilst using separate window panes...having been split either vertically/horizontally)  
 
 Tmux, is a terminal multi-plexer that gives you...    
 - a separate window to work with (which you can both 'detach' from/and, then, later on, 'attach' to, again)    
