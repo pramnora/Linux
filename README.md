@@ -349,7 +349,7 @@ Learn tmux (Part 1) Boost your Linux Productivity with this 5-part Course!  - (C
 ## Other
 
 Linux Kernal  
-- https://www.kernal.org  
+- [https://www.kernal.org ](https://www.kernel.org/) 
   
 ### Cloud computing/servers  
 
