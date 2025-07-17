@@ -256,20 +256,22 @@ Tmux, is a terminal multi-plexer that gives you...
 ...to install TMux...   
 > sudo apt install tmux  
 ..or...  
-> sudo snap install tmux    
+> sudo snap install tmux
+
 ... to find out if TMux is already installed:  
 > which tmux  
 > /snap/bin/tmux  
 ...or,...  
 > command -v tmux  
 > /snap/bin/tmux  
+
 ...to install a new TMux session:  
 > tmux  
  ...to 'detach' from the current TMux session:   
 > [CTRL]+[B], then, [D]  
 ...to 'attach' to the current Tmux session:  
 > tmux attach  
-...to start up a new Tmux session...
+...to start up a new Tmux session...  
 > tmux
 
 
