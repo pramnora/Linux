@@ -368,6 +368,9 @@ How to write a bash script - (Channel: OMGenomics)
 100+ Linux Things you Need to Know - (Channel: Fireship)    
 - https://www.youtube.com/watch?v=LKCVKw9CzFo&t=333s  
 
+How Does Linux Boot Process Work? - (Channel - ByteByteGo)  
+- https://www.youtube.com/watch?v=XpFsMB6FoOs  
+
 ### YouTube Shorts  
 
 I deleted my entire OS with 1 command - (Channel: NexxelSecurity)    
