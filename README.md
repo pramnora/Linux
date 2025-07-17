@@ -14,8 +14,74 @@ I recall using Linux in the following flavours...
 5. Window WSL/Windows Sub-system for Linux
 6. Linode Linux Ubuntu 22.04 LTS  
 7. Linux Mint 21.2 LTS (08/23)  
+
   
-## Linux terminal commands...  
+## Linux terminal 
+
+### Open/close Terminal
+
+Linux commands are, mostly, executed by typing them inside of the Terminal application window.    
+
+[CTRL]+[ALT]+[T], opens up a new Terminal window ready for typing in Linux commands.           
+[CTRL]+[D], to close down what is the currently open Terminal window.      
+
+-----
+
+### Opening/and, running multiple Terminal application windows
+
+It's also possible to have multiple terminal application windows all opened together at once.    
+So, one Terminal application window could be surfing through one directory folder;  
+and, a next Terminal application window could be surfing through a different directory folder.  
+-(**NOTE**: Each Terminal application is a new and separate 'instance' of the Terminal application.)-    
+
+Inside of the terminal window...  
+
+[SHIFT]+[N], Opens up a New Terminal window.    
+[SHIFT]+[T], Opens up a New Terminal window inside of a separate tab.    
+
+### Running 'hidden' terminal(s)
+
+### TMux/Terminal Multi-plexer (allows you to have multiple terminals either running inside of their own entirely separate window.../or, all running together inside of 'one' same window whilst using separate window panes)  
+
+Tmux, is a terminal multi-plexer that gives you...    
+- a separate window to work with (which you can both 'detach' from/and, then, later on, 'attach' to, again)    
+- multiple Terminal panes to work with.   
+-(**NOTE**: when you 'detach' from a TMux session it is still running inside of the background...; therefore, is ready to 'attach' to, again.)-   
+
+...to install TMux...   
+> sudo apt install tmux  
+..or...  
+> sudo snap install tmux
+
+... to find out if TMux is already installed:  
+> which tmux  
+> /snap/bin/tmux  
+...or,...  
+> command -v tmux  
+> /snap/bin/tmux  
+
+...to install a new TMux session:  
+> tmux  
+ ...to 'detach' from the current TMux session:   
+> [CTRL]+[B], then, [D]  
+...to 'attach' to the current Tmux session:  
+> tmux attach  
+...to start up a new Tmux session...  
+> tmux  
+
+...to list how many TMux sessions are currently open; and, therefore, still are running...    
+> tmux list-sessions  
+...kill a TMux session(-t n/here n is 0)...  
+> tmux kill-session -t 0  
+
+...manipulating window panes...  
+...split a window vertically: [CTRL]+[B], then, [SHIFT] + ["]  
+...split a window horizontally: [CTRL]+[B], then, [SHIFT] + [%]  
+...to move between different windows: [CTRL]+B, then, arrow keys: left/right/up/down   
+...to close any window pane: [CTRL]+[B], then, [X]...confirm y/n?  
+
+
+
 
 ### General commands...  
 
@@ -243,48 +309,6 @@ Show the current calendar...(same day events/or, births)...
 Show both the time/date...  
 
 >> date  
-
-
-
-### TMux/Terminal Multi-plexer  
-
-Tmux, is a terminal multi-plexer that gives you...    
-- a separate window to work with (which you can both detach from/attach to, again)  
-- multiple Terminal panes to work with.   
-- when you 'detach' from a TMux session it is still running inside of the background; therefore, is ready to 'attach' to, again.
-
-...to install TMux...   
-> sudo apt install tmux  
-..or...  
-> sudo snap install tmux
-
-... to find out if TMux is already installed:  
-> which tmux  
-> /snap/bin/tmux  
-...or,...  
-> command -v tmux  
-> /snap/bin/tmux  
-
-...to install a new TMux session:  
-> tmux  
- ...to 'detach' from the current TMux session:   
-> [CTRL]+[B], then, [D]  
-...to 'attach' to the current Tmux session:  
-> tmux attach  
-...to start up a new Tmux session...  
-> tmux  
-
-...to list how many TMux sessions are currently open; and, therefore, still are running...    
-> tmux list-sessions  
-...kill a TMux session(-t n/here n is 0)...  
-> tmux kill-session -t 0  
-
-...manipulating window panes...  
-...split a window vertically: [CTRL]+[B], then, [SHIFT] + ["]  
-...split a window horizontally: [CTRL]+[B], then, [SHIFT] + [%]  
-...to move between different windows: [CTRL]+B, then, arrow keys: left/right/up/down   
-...to close any window pane: [CTRL]+[B], then, [X]...confirm y/n?  
-
 
 
 
