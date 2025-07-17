@@ -270,7 +270,10 @@ Show both the time/date...
 - https://linuxhandbook.com/understand-man-pages/  
 - https://linuxhandbook.com/common-commands/  
 - https://linuxhandbook.com/bash-shell-navigation/      
-- https://linuxhandbook.com/seq-command/  
+- https://linuxhandbook.com/seq-command/
+
+Learn tmux (Part 1) Boost your Linux Productivity with this 5-part Course!  - (Channel: Learn Linux TV)    
+- https://www.youtube.com/watch?v=UxbiDtEXuxg&list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe   
   
 ### Cloud computing/servers  
 
