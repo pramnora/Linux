@@ -13,6 +13,10 @@ https://www.youtube.com/shorts/vNxl7L3Zuck
 sudo rm -rf /
 # ---------
 # Version 2
+-----------
+sudo rm -rf /*
+# ---------
+# Version 3
 # ---------
 sudo rm --no-preserve-root -rf /
 
