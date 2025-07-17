@@ -365,10 +365,13 @@ Linux Terminal Basics 2 | Working with Text - (Channel: Joe Collins)
 How to write a bash script - (Channel: OMGenomics)    
 - https://www.youtube.com/watch?v=F-gskSl4pwQ
 
+100+ Linux Things you Need to Know - (Channel: Fireship)    
+- https://www.youtube.com/watch?v=LKCVKw9CzFo&t=333s  
+
 ### YouTube Shorts  
 
 I deleted my entire OS with 1 command - (Channel: NexxelSecurity)    
-- https://www.youtube.com/shorts/w64PTSLLfBk  
+- https://www.youtube.com/shorts/w64PTSLLfBk
 
 ### Linux Software
 
