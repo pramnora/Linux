@@ -1,7 +1,7 @@
 # Linux  
 Linux  
 
-**Document last modified**: *Mon 17th Jul 2025 08:27 AM GMT*   
+**Document last modified**: *Mon 20th May 2026 23:55 PM GMT*   
 
 -----
 
@@ -17,7 +17,7 @@ I recall using Linux in the following flavours...
 6. Linode Linux Ubuntu 22.04 LTS (cloud based) 
 7. Linux Mint 21.2 LTS (08/23)
 8. Web browser based Linux (06/25)
-
+9. MiniOS (12/25)
 -----
   
 ## Linux terminal 
